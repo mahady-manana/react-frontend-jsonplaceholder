@@ -1,0 +1,1 @@
+export { DetailTodo } from './Details';
